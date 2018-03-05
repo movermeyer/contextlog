@@ -2,7 +2,7 @@ contextlog
 ==========
 [![Build Status](https://travis-ci.org/mdevaev/contextlog.svg?branch=master)](https://travis-ci.org/mdevaev/contextlog)
 [![Coverage Status](https://coveralls.io/repos/mdevaev/contextlog/badge.png?branch=master)](https://coveralls.io/r/mdevaev/contextlog?branch=master)
-[![Latest Version](https://pypip.in/v/contextlog/badge.png)](https://pypi.python.org/pypi/contextlog/)
+[![Latest Version](https://img.shields.io/pypi/v/contextlog.svg)](https://pypi.python.org/pypi/contextlog/)
 
 
 ##Context-based logger and formatters collection##
